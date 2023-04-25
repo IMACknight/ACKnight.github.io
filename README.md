@@ -1,6 +1,6 @@
 ## 关于
 
-访问地址： [[ACKnight](https://imacknight.github.io/)](https://imacknight.github.io/)
+访问地址： [ACKnight](https://imacknight.github.io/)
 
 #### 使用技术栈
 
